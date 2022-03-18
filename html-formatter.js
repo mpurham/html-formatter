@@ -1,5 +1,5 @@
 /*
-    name: Format HTML
+    name: HTML Formatter
     description: Cleans and format HTML documents.
     author: Marcell
     tags: html,prettify,clean,indent
